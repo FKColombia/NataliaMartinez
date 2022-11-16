@@ -9,6 +9,6 @@ EMAIL;type=INTERNET;type=WORK;type=pref:natalia.martinez@fresenius-kabi.com
 TEL;type=WORK;type=VOICE:+34 649136970
 item1.ADR;type=WORK;type=pref:;;Marina 16-18\nPlanta 26 Torre Mapfre\, Barcelona;España
 item1.X-ABADR:sg
-item2.URL;type=pref:www.fresenius-kabi.es
+item2.URL;type=pref:www.fresenius-kabi.com/es
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
